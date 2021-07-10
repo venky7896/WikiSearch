@@ -1,0 +1,27 @@
+
+.wiki{
+    margin: 10px;
+}
+
+.wiki-logo{
+    width: 200px;
+    height: 200px;
+}
+
+.wiki-search{
+    width:500px
+}
+
+.results-container{
+    
+    background-color: rgb(236, 226, 212);
+    
+}
+
+.wiki-title{
+    font-size: 30px;
+}
+
+.wiki-link{
+    color:red;
+}
