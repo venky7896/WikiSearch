@@ -1,0 +1,2 @@
+# WikiSearch
+wiki search example
